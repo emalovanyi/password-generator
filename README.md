@@ -1,1 +1,2 @@
-# password-generator
+# Password-generator<br>
+<strong></strong>
